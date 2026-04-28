@@ -1,2 +1,6 @@
 scraped_datasets/
-combined_soil_photos.csv
+datasets/combined_soil_photos.csv
+datasets/physical_soil_attributes.csv
+models/
+
+
