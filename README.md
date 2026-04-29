@@ -567,3 +567,17 @@ We advise on:
 1. Expanding the dataset by collecting a larger and more diverse set of soil images across multiple African countries, different climatic zones, seasons, and farming conditions to improve model generalisation, reduce bias, and enhance real-world performance.
 
 2. Developing multimodal fusion models that combine soil images, physical soil attributes, and weather and climate data, crop health and yield to improve prediction accuracy and produce more robust and context-aware recommendations.
+
+# 10.0 Deployment of our models
+
+We developed a user-friendly dashboard for farmers with the following features:
+
+1. Farmers can easily input physical soil attributes and receive crop recommendations.
+2. Farmers can also upload images of their soil to receive crop recommendations.
+* In both cases, the system additionally suggests the most suitable fertilizers based on the recommended crops.
+* The dashboard supports offline use, allowing farmers to input data without an internet connection and receive recommendations once they are back online.
+
+From the dashboard, we as developers also benefit by:
+1. Monitoring the number of recommendations generated.
+
+Our dashboard is hosted on the link shown: https://growright-frontend.onrender.com/ 
